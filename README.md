@@ -1,4 +1,4 @@
-![logo](https://i.ibb.co/YjSc25q/Anik-sajib-sarkar.png)
+<img  alt="Coding" style="width:100%;height:400px;"  src="https://i.ibb.co/YjSc25q/Anik-sajib-sarkar.png">
 <h1 align="center">Hi 👋, I'm Anik Sajib Sarkar</h1>
 <h3 align="center">Welcome to my page!
   A passionate frontend developer from Bangladesh ,currently living in  Netrakona, Bangladesh.</h3>
